@@ -1,4 +1,4 @@
-# COG403(Seminar in Computational Cognition)-Final-Project-Modeling Human Reading Time with Transformer-Based Surprisal
+Modeling Human Reading Time with Transformer-Based Surprisal
 
 ## Overview
 This project investigates how well modern language models predict human reading behavior. Specifically, we test whether **word surprisal** derived from transformer models explains **self-paced reading times (RTs)** in the Natural Stories Corpus.
