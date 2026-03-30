@@ -1,5 +1,5 @@
 Modeling Human Reading Time with Transformer-Based Surprisal
-![](COG403 Project Presentation.png)
+![](https://github.com/kiarashkianid/COG403-reading-time-surprisal-gpt2-bert/blob/main/COG403%20Project%20Presentation.png)
 
 ## Overview
 This project investigates how well modern language models predict human reading behavior. Specifically, we test whether **word surprisal** derived from transformer models explains **self-paced reading times (RTs)** in the Natural Stories Corpus.
